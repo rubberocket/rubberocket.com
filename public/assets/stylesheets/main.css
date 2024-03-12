@@ -15,6 +15,10 @@ html, body {
 	font-family: Inter, Helvetica, Arimo, Arial, sans-serif;
 }
 
+body.home {
+	background-image: #999966 url("../images/backgrounds/coffee.jpg");
+}
+
 img {
 	image-rendering: pixelated;
 }
