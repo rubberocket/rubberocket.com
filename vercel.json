@@ -1,5 +1,16 @@
 {
     "redirects": [
-      { "source": "/favicon.ico", "destination": "/assets/images/icons/man.svg", "permanent": true }
+        { 
+        "source": "/favicon.ico", 
+        "destination": "/assets/images/icons/man.svg", 
+        "permanent": true,
+        "statusCode": 301
+        },
+        {
+        "source": "/ramble/", 
+        "destination": "https://rubberocket.github.io/old/ramble/", 
+        "permanent": true, 
+        "statusCode": 301
+        }
     ]
 }
