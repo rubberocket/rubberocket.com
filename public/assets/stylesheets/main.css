@@ -16,7 +16,7 @@ html, body {
 }
 
 body.home {
-	background: url("../images/backgrounds/coffee.jpg");
+	background: #999966 url("../images/backgrounds/coffee.jpg");
 }
 
 img {
