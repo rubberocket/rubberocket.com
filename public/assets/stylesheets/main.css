@@ -15,7 +15,7 @@ html, body {
 	font-family: Inter, Helvetica, Arimo, Arial, sans-serif;
 	width: 100%;
 	height: 100%;
-	margin: 0 auto;
+	margin: auto;
 	image-rendering: pixelated;
 }
 
@@ -31,10 +31,6 @@ hr {
 	width: 98%;
 	max-width: 1012px;
 	margin: 0 auto;
-	position: absolute;
-	top: 50%;
-  	left: 50%;
-	transform: translate(-50%, -50%);
 	/* go home */
 }
 .therest {
