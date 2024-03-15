@@ -1,4 +1,4 @@
-body {
+html, body {
 	background: #aaf333;
 }
 div.bgabout {
@@ -7,14 +7,14 @@ div.bgabout {
 	color: #ffff00;
 }
 .bgabout a:link {
-	color: #ffff00;
+	color: #ff0000;
 }
 .bgabout a:visited {
-	color: #ffff00;
+	color: #ff0000;
 }
 .bgabout a:hover {
-	color: #ffff00;
+	color: #ff0000;
 }
 .bgabout a:active {
-	color: #ffff00;
+	color: #ff0000;
 }
