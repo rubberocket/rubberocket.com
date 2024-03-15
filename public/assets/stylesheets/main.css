@@ -17,10 +17,6 @@ html, body {
 	image-rendering: pixelated;
 }
 
-body.home {
-	background: #999966;
-}
-
 hr {
 	border: solid 2px;
 }
