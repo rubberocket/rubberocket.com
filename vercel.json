@@ -9,6 +9,16 @@
         "source": "/ramble/", 
         "destination": "https://rubberocket.github.io/old/ramble/", 
         "permanent": true
+        },
+        {
+        "source": "/anim/",
+        "destination": "/video",
+        "permanent": true
+        },
+        {
+        "source": "/downloads/",
+        "destination": "/goods/",
+        "permanent": true
         }
     ]
 }
