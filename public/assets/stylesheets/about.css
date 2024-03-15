@@ -1,0 +1,8 @@
+body.about {
+	background: #999966 url("../images/backgrounds/boil.jpg");
+}
+div.bgabout {
+	background: #00440e url("../images/backgrounds/pine.gif");
+	font-family: Comic Sans MS, Comic Neue, cursive; 
+	color: #ffff00;
+}
