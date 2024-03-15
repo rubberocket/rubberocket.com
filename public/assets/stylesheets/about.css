@@ -6,3 +6,23 @@ div.bgabout {
 	font-family: Comic Sans MS, Comic Neue, cursive; 
 	color: #ffff00;
 }
+.bgabout a:link {
+	color: #ffff00;
+}
+.bgabout a:visited {
+	color: #ffff00;
+}
+.bgabout a:hover {
+	color: #ffff00;
+}
+.bgabout a:active {
+	color: #ffff00;
+}
+
+/* how to fix yo div */
+.therest {
+	width: calc(93.478260869347826086934782608693478260869347826086% - 4px);
+	background: #418fde;
+	display: block;
+	float: right;
+}
