@@ -18,11 +18,3 @@ div.bgabout {
 .bgabout a:active {
 	color: #ffff00;
 }
-
-/* how to fix yo div */
-.therest {
-	width: calc(93.478260869347826086934782608693478260869347826086% - 4px);
-	background: #418fde;
-	display: block;
-	float: right;
-}
