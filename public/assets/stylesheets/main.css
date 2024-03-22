@@ -54,6 +54,11 @@ hr {
 	max-width: 1012px;
 	display: block;
 	margin: 0px auto;
+	user-select: none;
+	-drag: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
 }
 
 .footerfighters {
