@@ -10,7 +10,7 @@ function inIframe () {
 }
 
 if (inIframe()) {
-    document.write("<marquee>" + newsInfo + "</marquee>");
+    document.getElementById("body").innerHTML = "<marquee>" + newsInfo + "</marquee>";
 } else {
     document.getElementById("nMarq").innerHTML = "<marquee>" + newsInfo + "</marquee>";
 }
