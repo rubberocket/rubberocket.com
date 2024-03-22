@@ -11,6 +11,7 @@ function inIframe () {
 
 if (inIframe()) {
     document.getElementById("body").innerHTML = "<marquee>" + newsInfo + "</marquee>";
+    document.getElementById("body").bgcolor = ""
 } else {
     document.getElementById("nMarq").innerHTML = "<marquee>" + newsInfo + "</marquee>";
 }
