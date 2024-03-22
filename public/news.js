@@ -11,7 +11,8 @@ function inIframe () {
 
 if (inIframe()) {
     document.getElementById("body").innerHTML = "<marquee>" + newsInfo + "</marquee>";
-    document.getElementById("body").bgcolor = ""
+    document.getElementById("body").bgcolor = "#DC4405";
+    document.getElementById("body").style = "margin: 0;"
 } else {
     document.getElementById("nMarq").innerHTML = "<marquee>" + newsInfo + "</marquee>";
 }
