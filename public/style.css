@@ -37,3 +37,7 @@ a:link, a:visited, a:active, a:hover {
     font-weight: 900;
     text-decoration: none;
 }
+
+.header {
+    text-align: center;
+}
