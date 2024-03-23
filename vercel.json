@@ -12,12 +12,12 @@
         },
         {
         "source": "/anim/",
-        "destination": "/video",
+        "destination": "/mystuff/videos/",
         "permanent": true
         },
         {
         "source": "/downloads/",
-        "destination": "/goods/",
+        "destination": "/mystuff/goods/",
         "permanent": true
         }
     ]
