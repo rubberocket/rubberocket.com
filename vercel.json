@@ -11,6 +11,11 @@
         "permanent": true
         },
         {
+        "source": "/ramble", 
+        "destination": "https://rubberocket.github.io/old/ramble/", 
+        "permanent": true
+        },
+        {
         "source": "/anim/",
         "destination": "/mystuff/videos/",
         "permanent": true
