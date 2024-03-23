@@ -6,12 +6,13 @@ html {
 }
 body {
     min-width: 468px;
+    padding: 2px;
 }
 
-body.home {
+html.home {
     text-align: center;
 }
-body.stuff {
+html.stuff {
     background: url("assets/multimedia/backgrounds/marble.gif") aqua;
     color: #000;
     width: 100%;
