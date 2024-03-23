@@ -8,15 +8,25 @@ body {
     min-width: 468px;
     padding: 2px;
 }
+
 body.home {
     text-align: center;
 }
+body.stuff {
+    background: url("assets/multimedia/backgrounds/marble.gif") aqua;
+    color: #000;
+}
 
-.linkshome {
+.linkshome, .mstufflinks {
     font-weight: 900;
     font-style: italic;
     font-size: large;
 }
+.links {
+    font-weight: 900;
+    font-style: italic;
+}
+
 a:link, a:visited, a:active, a:hover {
     color: #FFF;
     font-weight: 900;
