@@ -13,6 +13,7 @@ let reqvid = urlParams.get('video')
 
     if (reqvid === "killafish") {
         document.getElementById("killafish").style = "display: block;";
+        window.location.href = "#killafish";
     } else {
         document.getElementById("killafish").style = "display: none;";
     }
