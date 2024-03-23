@@ -59,7 +59,7 @@ a:active {
 /* when we do */
 .blurmebaby:hover {
     webkit-filter: blur(0px) grayscale(0%); /* Sucky browsers: Chrome, Safari, Opera */
-    filter: blur(0px) grayscale(0%); /* The better ones: Firefox, Pale Moon, Suckless Surf */
+    filter: blur(0px) grayscale(50%); /* The better ones: Firefox, Pale Moon, Suckless Surf */
 }
 
 .about {
