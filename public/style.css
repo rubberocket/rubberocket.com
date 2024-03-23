@@ -44,8 +44,13 @@ a:link, a:visited, a:active, a:hover {
 }
 
 
-/* when we hover over a link */
+/* when we don't hover over something */
+.blurmebaby:not(:hover) {
+    webkit-filter: blur(4px) grayscale(100%); /* Sucky browsers: Chrome, Safari, Opera */
+    filter: blur(4px) grayscale(100%); /* The better ones: Firefox, Pale Moon, Suckless Surf */
+}
+/* when we do */
 .blurmebaby:hover {
-    webkit-filter: blur(4px); /* Sucky browsers: Chrome, Safari, Opera */
-    filter: blur(4px); /* The better ones: Firefox, Pale Moon, Suckless Surf */
+    webkit-filter: blur(0px) grayscale(0%); /* Sucky browsers: Chrome, Safari, Opera */
+    filter: blur(0px) grayscale(0%); /* The better ones: Firefox, Pale Moon, Suckless Surf */
 }
