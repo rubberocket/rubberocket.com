@@ -1,17 +1,27 @@
-function loady(reqvid, license){
+function loady(reqvid){
 
-return reqvid;
-return license;
+    if (reqvid === "ballbounce81224") {
+        document.getElementById("ballbounce81224").style = "display: block";
+    } else {
+        document.getElementById("ballbounce81224").style = "display: none";
+    }
 
-function doNice() {
-    return "<br> <div id='thething'> <embed src='" + reqvid + "' class='viddy'></embed><br><strong>License</strong>:" + license + " </div>";
-}
+    if (reqvid === "mcream") {
+        document.getElementById("mcream").style = "display: block";
+    } else {
+        document.getElementById("mcream").style = "display: none";
+    }
 
-if (document.getElementById("thething")) {
-    document.getElementById("thething").remove();
-    this.innerHTML += doNice();
-} else {
-    this.innerHTML += doNice();
-}
+    if (reqvid === "toss1e1") {
+        document.getElementById("toss1e1").style = "display: block";
+    } else {
+        document.getElementById("toss1e1").style = "display: none";
+    }
+
+    if (reqvid === "scribbletrail") {
+        document.getElementById("scribbletrail").style = "display: block";
+    } else {
+        document.getElementById("scribbletrail").style = "display: none";
+    }
 
 }
