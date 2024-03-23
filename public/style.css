@@ -42,3 +42,10 @@ a:link, a:visited, a:active, a:hover {
 .header {
     text-align: center;
 }
+
+
+/* when we hover over a link */
+.blurmebaby:hover {
+    webkit-filter: blur(4px); /* Sucky browsers: Chrome, Safari, Opera */
+    filter: blur(4px); /* The better ones: Firefox, Pale Moon, Suckless Surf */
+}
