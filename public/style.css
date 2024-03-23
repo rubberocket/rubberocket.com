@@ -20,7 +20,7 @@ body.stuff {
 .linkshome, .mstufflinks {
     font-weight: 900;
     font-style: italic;
-    font-size: large;
+    font-size: 3vw;
 }
 .links {
     font-weight: 900;
