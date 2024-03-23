@@ -60,3 +60,7 @@ a:active {
     webkit-filter: blur(0px) grayscale(0%); /* Sucky browsers: Chrome, Safari, Opera */
     filter: blur(0px) grayscale(0%); /* The better ones: Firefox, Pale Moon, Suckless Surf */
 }
+
+.about {
+    background: url("assets/multimedia/backgrounds/95.gif") ;
+}
