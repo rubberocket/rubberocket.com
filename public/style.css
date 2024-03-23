@@ -21,6 +21,7 @@ body.stuff {
     font-weight: 900;
     font-style: italic;
     font-size: 3vw;
+    text-align: center;
 }
 .links {
     font-weight: 900;
