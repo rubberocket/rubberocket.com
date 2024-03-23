@@ -1,3 +1,6 @@
+/* get our video */
+
+const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 let reqvid = urlParams.get('video')
 
