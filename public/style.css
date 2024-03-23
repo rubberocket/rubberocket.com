@@ -37,17 +37,21 @@ html.stuff {
     text-decoration: none;
 }
 
-.smalink {
-    font-size: 1vh;
+p {
+    font-size: 16px;
 }
 
-a:link, a:visited,  a:hover {
+.smalink {
+    font-size: 12px;
+}
+
+a:link, a:visited,  a:hover, .linkydinky:link, .linkydinky:visited, .linkydinky:hover {
     color: #F00; /*get it because its that guy from nirvana*/
     font-weight: 900;
     text-decoration: none;
 }
 
-a:active {
+a:active, .linkydinky:active {
     color: #F0F;
 }
 
@@ -69,4 +73,22 @@ a:active {
 
 .about {
     background: url("assets/multimedia/backgrounds/95tile.gif") ;
+}
+
+.vids {
+    min-width: 512px;
+    max-width: 80%;
+}
+.vidthumb {
+    width: 64px;
+    filter: grayscale(100%);
+}
+.vidthumb:hover {
+    width: 128px;
+    filter: grayscale(0%);
+}
+
+.viddy {
+    width: 750px;
+    height: 540px;
 }
