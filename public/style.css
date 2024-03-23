@@ -6,7 +6,6 @@ html {
 }
 body {
     min-width: 468px;
-    padding: 2px;
 }
 
 body.home {
@@ -15,6 +14,8 @@ body.home {
 body.stuff {
     background: url("assets/multimedia/backgrounds/marble.gif") aqua;
     color: #000;
+    width: 100%;
+    height: 100%;
 }
 
 .linkshome, .mstufflinks {
