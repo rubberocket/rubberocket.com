@@ -28,6 +28,7 @@ html.stuff {
 .links {
     font-weight: 900;
     font-style: italic;
+    text-align: center;
 }
 
 .linkshome:link, .linkshome:visited, .linkshome:active, .linkshome:hover {
