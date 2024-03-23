@@ -8,6 +8,10 @@ body {
     min-width: 468px;
     padding: 2px;
 }
+body.home {
+    text-align: center;
+}
+
 .linkshome {
     font-weight: 900;
     font-style: italic;
