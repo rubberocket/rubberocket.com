@@ -1,0 +1,10 @@
+<!-- this is not just any text file. -->
+
+<embed src=".././assets/videos/flash/testfootage/bounce81224.swf" width="100%" height="40%">
+</embed>
+
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+
+<hr>
+<h3>Credits</h3>
+<p>Animation by me. Licensed under a CC BY-SA 4.0 license. You can't own a circle!</p>

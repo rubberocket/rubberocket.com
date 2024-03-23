@@ -4,3 +4,11 @@
 .therest {
     background: #dc4405;
 }
+.vidcontains {
+    width: 75%;
+    border: solid 1px black;
+}
+.vidlookup, .vidcontainr {
+    width: 50%;
+    border: solid 1px black;
+}

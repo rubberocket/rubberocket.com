@@ -1,0 +1,145 @@
+<!-- this is not just any text file. -->
+
+<video controls width="100%" height="40%">
+    <source src=".././assets/videos/mpegfour/Scene1Ep1.mp4" type="video/mp4">
+    Your browser does not support HTML video. Please download the video and view it in VLC.
+</video>
+
+<hr>
+<h3>Description</h3>
+<p>I really wanted to make an object show of my own, so I made this video. Of course, it ended up being unsuccessful due to my incompetence.<br>
+Below was supposed to be the script. Of course, I didn't finish it either.</p>
+<hr>
+<h3>Original script</h3>
+<pre>
+22Hi Berayah! Did you see the email?
+Also, I will start a discord screen share
+
+Characters : 
+Host : Drawing Tablet
+Contestants  :
+      TM = Team Mouse
+      CSC = The Crash N Slam Crew
+M = Male  F = Female
+VBA = Voiced by Aleph
+VBB = Voiced by Berayah
+Blender (M) (VBA) (CSC)
+Lunch Bag (M) (VBA) (CSC)
+Nickel (M) (VBB) (CSC)
+Jolly Rancher (M) (CSC)
+Television (F) (VBB) (CSC)
+VHS (M) (VBA) (CSC)
+Discy (M) (VBB) (CSC)
+Cookie (F) (VBB) (CSC)
+Ice Cream (M) (VBA) (TM)
+Mouse (M) (VBA) (TM)
+Keyboard (F) (VBB) (TM)
+Emerald (F) (VBB) (TM)
+Balloon (M) (VBA) (TM)
+Water Bottle (M) (VBA) (TM)
+Pen (M) (VBB) (TM)
+Microphone (M) (VBB) (TM)
+
+Plot: The Characters are in a world Where Objects live in until a strange host named Drawing Tablet, takes the characters and puts them into an object show Totally Object Show!
+
+Script : 
+
+Scene 1 : 
+
+Drawing Tablet : Hello and welcome to Totally Object Show, a show where contestants compete for something, kinda like BFDI!
+
+Drawing Tablet : If you win all challenges, then you win more than 100 billion dollars! If you lose a challenge, you’re up for elimination, and if you get the most votes, you are eliminated.
+
+Drawing Tablet : So welcome to… Totally Object Show!
+
+*intro plays*
+
+Scene 2: 
+
+Jolly Rancher: Woah! I’ve never been on two shows before! I haven’t even been eliminated in Million Champs yet to join here! 
+
+Drawing Tablet: Well, I’m sorry, but It is what it is. You’re gonna have to compete on two shows.
+
+Ice Cream: Yes! I’m finally in a Show! And I’m not in Puppet Form! Also, My Gender changed?!
+
+Mouse: I’m on an Object Show? Well. This will be good.
+
+Keyboard: Oh Hey, Mouse!
+
+Mouse: Hi, Keyboard! 
+
+Lunch Bag: UUUUGHHHHHHHH! I DON’T WANT TO BE IN AN OBJECT SHOWWWWW.
+
+Drawing Tablet: Well, too bad. Because You all signed papers to be in this show.
+
+Pen: Hold on, I don’t remember signing any papers.
+
+Lunch Bag: Me Neither!
+
+Drawing Tablet : I forgot I even forced yall to sign it!
+
+Pen: Oh. That makes more sense.
+
+Drawing Tablet: So, what we’re gonna do next is make Teams! I will make you guys come up with a team name in the next minute. Go! And also, here are your Teammates.
+
+*drawing tablet shows screen of contestants placed on each team*
+
+Mouse: Well, this should be an easy Team name. TEAM MOUSE! *jingle for Team Mouse plays*
+(I made a decent logo and everything : )
+
+Emerald: Are you serious, Mouse? Team Mouse? That team name should be called, Team Emerald. 
+
+Drawing Tablet: Well too late, Emerald.
+
+Emerald: *sighs*
+
+*On the other team*
+
+Jolly Rancher: I got it! 
+
+Jolly Rancher: Hey team, let’s be called- *gets interrupted by Lunch Bag*
+
+Lunch Bag: The Crash N Slam Crew! *jingle for The Crash N Slam Crew plays*
+
+Drawing Tablet: Now that we assembled these teams, We can move on to the next challenge! 
+
+Cookie: It should Be a challenge that I Like. 
+
+Drawing Tablet: The next challenge will be to Jump off the Cliff of Shame, and then jump to the other side. The team that has the least people that jump to the other side will be up for elimination! GO!
+
+Scene 3: 
+
+Lunch Bag: GO JUMP YOU LITTLE LOSERS! 
+
+*Lunch bag throws Blender, Nickel and Jolly Rancher off.*
+
+*JR, N and B scream*
+
+VHS: Lunch Bag?! How Could You?! Jolly Rancher, Nickel and Blender didn’t make it thanks to you!!
+
+Cookie: Yeah, we don’t care, so Bye. 
+
+*cookie throws VHS* 
+
+VHS: Oh No!!!!!!!
+
+*Cookie and Lunch Bag snicker*
+
+Water Bottle: Wait, I have an Idea! Pen and Balloon, let’s start with you! 
+
+P and B: Huh?
+
+Water Bottle: Come on top of me! 
+
+*Water swishes on Pen and Balloon, and makes it to the other side.
+
+Discy: *jumps and makes it to the other side*
+
+Discy: Well that was easy!
+
+*Everyone else runs and forgets to jump and falls*
+
+</pre>
+<hr>
+<h3>Credits</h3>
+<p>I would've likely kept this copyrighted back in the day, but this one is being licensed under a CC BY-SA 4.0 license. Mainly because I have no plans to continue this show.</p>
