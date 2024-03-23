@@ -1,3 +1,3 @@
-function loadVideo(name) {
+/* function loadVideo(name) {
         $(#vidcontainr).load("./vidthingies/" + name + ".txt"); 
-}
+} */

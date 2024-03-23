@@ -4,18 +4,3 @@
 .therest {
     background: #dc4405;
 }
-.vidcontains {
-    width: 75%;
-    border: solid 1px black;
-}
-.vidlookup, .vidcontainr {
-    width: 49.999%;
-    height: 50%;
-    overflow-y: scroll;
-}
-.vidlookup {
-    float: left;
-}
-.vidlookup {
-    float: right;
-}
