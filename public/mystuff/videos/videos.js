@@ -5,36 +5,26 @@ const urlParams = new URLSearchParams(queryString);
 let reqvid = urlParams.get('video')
 
     if (reqvid === "ballbounce81224") {
-        document.getElementById("ballbounce81224").style = "display: block;";
+        document.getElementById("ballbounce81224").innerHTML = '<embed src="../../assets/multimedia/videos/flash/testfootage/bounce_81224.swf" class="viddy">';
         window.location.href = "#ballbounce81224";
-    } else {
-        document.getElementById("ballbounce81224").style = "display: none;";
     }
 
     if (reqvid === "killafish") {
-        document.getElementById("killafish").style = "display: block;";
+        document.getElementById("killafish").innerHTML = '<embed src="../../assets/multimedia/videos/mpegfour/kilrfish.mp4" class="viddy">';
         window.location.href = "#killafish";
-    } else {
-        document.getElementById("killafish").style = "display: none;";
     }
 
     if (reqvid === "mcream") {
-        document.getElementById("mcream").style = "display: block;";
+        document.getElementById("mcream").innerHTML = '<embed src="../../assets/multimedia/videos/mpegfour/objectshowstuff/whippedcreammc.mp4" class="viddy">';
         window.location.href = "#mcream";
-    } else {
-        document.getElementById("mcream").style = "display: none;";
     }
 
     if (reqvid === "toss1e1") {
-        document.getElementById("toss1e1").style = "display: block;";
+        document.getElementById("toss1e1").innerHTML = '<embed src="../../assets/multimedia/videos/mpegfour/objectshowstuff/Scene1Ep1.mp4" class="viddy">';
         window.location.href = "#toss1e1";
-    } else {
-        document.getElementById("toss1e1").style = "display: none;";
     }
 
     if (reqvid === "scribbletrail") {
-        document.getElementById("scribbletrail").style = "display: block;";
+        document.getElementById("scribbletrail").innerHTML = '<embed src="../../assets/multimedia/videos/mpegfour/STrialer.mp4" class="viddy">';
         window.location.href = "#scribbletrail";
-    } else {
-        document.getElementById("scribbletrail").style = "display: none;";
     }
