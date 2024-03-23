@@ -36,6 +36,11 @@ html.stuff {
     font-weight: 900;
     text-decoration: none;
 }
+
+.smalink {
+    font-size: 1vh;
+}
+
 a:link, a:visited,  a:hover {
     color: #F00; /*get it because its that guy from nirvana*/
     font-weight: 900;
