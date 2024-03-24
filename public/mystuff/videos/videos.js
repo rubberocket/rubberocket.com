@@ -4,6 +4,13 @@ const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 let reqvid = urlParams.get('video')
 
+    if (reqvid === "guypsycho") {
+        document.getElementById("guypsycho").style = "display: block;";
+        window.location.href = "#guypsycho";
+    } else {
+        document.getElementById("guypsycho").style = "display: none;";
+    }
+
     if (reqvid === "ballbounce81224") {
         document.getElementById("ballbounce81224").style = "display: block;";
         window.location.href = "#ballbounce81224";
