@@ -57,7 +57,7 @@ a:hover, .linkydinky:hover {
 }
 
 a:active, .linkydinky:active {
-    color: #C33;
+    color: #C30;
     text-decoration: underline;
 }
 
@@ -101,4 +101,10 @@ a:active, .linkydinky:active {
     height: 30%;
     max-width: 960px;
     max-height: 540px;
+}
+
+.bottomleft {
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
