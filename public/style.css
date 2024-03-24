@@ -86,11 +86,11 @@ a:active, .linkydinky:active {
     max-width: 80%;
 }
 .vidthumb {
-    width: 64px;
+    width: 32px;
     filter: grayscale(100%);
 }
 .vidthumb:hover {
-    width: 128px;
+    width: 64px;
     filter: grayscale(0%);
 }
 
