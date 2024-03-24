@@ -45,14 +45,20 @@ p {
     font-size: 12px;
 }
 
-a:link, a:visited,  a:hover, .linkydinky:link, .linkydinky:visited, .linkydinky:hover {
-    color: #F00; /*get it because its that guy from nirvana*/
+a:link, a:visited, .linkydinky:link, .linkydinky:visited {
+    color: #000; /*get it because its that guy from nirvana*/
     font-weight: 900;
     text-decoration: none;
 }
 
+a:hover, .linkydinky:hover {
+    color: #AAA;
+    text-decoration: underline;
+}
+
 a:active, .linkydinky:active {
-    color: #F0F;
+    color: #000;
+    text-decoration: underline;
 }
 
 .header {
