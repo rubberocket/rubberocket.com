@@ -46,18 +46,18 @@ p {
 }
 
 a:link, a:visited, .linkydinky:link, .linkydinky:visited {
-    color: #000; /*get it because its that guy from nirvana*/
+    color: #C66;
     font-weight: 900;
     text-decoration: none;
 }
 
 a:hover, .linkydinky:hover {
-    color: #AAA;
+    color: #F3F;
     text-decoration: underline;
 }
 
 a:active, .linkydinky:active {
-    color: #000;
+    color: #C33;
     text-decoration: underline;
 }
 
