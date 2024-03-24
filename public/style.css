@@ -2,7 +2,7 @@ html {
     background: #000;
     color: #FFF;
     font-family: 'Courier New', Courier, monospace;
-    margin: 0;
+    margin: 0 auto;
 }
 body {
     min-width: 468px;
