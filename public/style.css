@@ -46,7 +46,7 @@ p {
 }
 
 a:link, a:visited, .linkydinky:link, .linkydinky:visited {
-    color: #C66;
+    color: #F00;
     font-weight: 900;
     text-decoration: none;
 }
@@ -57,7 +57,7 @@ a:hover, .linkydinky:hover {
 }
 
 a:active, .linkydinky:active {
-    color: #C30;
+    color: #A00;
     text-decoration: underline;
 }
 
