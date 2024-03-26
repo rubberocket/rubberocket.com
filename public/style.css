@@ -1,4 +1,4 @@
-html {
+html, .otherstuff {
     background: #000;
     color: #FFF;
     font-family: 'Courier New', Courier, monospace;
