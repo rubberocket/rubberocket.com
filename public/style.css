@@ -6,7 +6,7 @@ html {
 }
 body {
     min-width: 468px; /* wowza */
-    padding: 2px;
+    padding: 2vh;
 }
 
 html.home {
@@ -123,4 +123,8 @@ a:active, .linkydinky:active {
 
 .fronty {
     z-index: 99999999999999999999999;
+}
+
+.req {
+    font-size: 2vh;
 }
